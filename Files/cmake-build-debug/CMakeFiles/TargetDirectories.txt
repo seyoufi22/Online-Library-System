@@ -1,3 +1,3 @@
-D:/Online-Library-System/Files/cmake-build-debug/CMakeFiles/Files.dir
-D:/Online-Library-System/Files/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Online-Library-System/Files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ahmed/Online-Library-System/Files/cmake-build-debug/CMakeFiles/Files.dir
+/home/ahmed/Online-Library-System/Files/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ahmed/Online-Library-System/Files/cmake-build-debug/CMakeFiles/rebuild_cache.dir

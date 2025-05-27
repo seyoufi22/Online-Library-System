@@ -96,7 +96,7 @@ ostream &operator<<(ostream & output, const Book & book) {
     output << "Id : " << book.id << "\n";
     output << "Category : " << book.category << '\n';
     output << "Avg rating : " << book.averageRating << '\n';
-    if (book.author.GetName() != "") {
+    if (book.author->GetName() != "") {
         cout << book.author;
     }
     output << "=================================================\n";
